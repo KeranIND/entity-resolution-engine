@@ -10,14 +10,14 @@ Enterprise CRM data rarely arrives cleanly:
 
 ```text
 Lead A
-  Kiran Indugula
-  kiran.indugula@example.com
-  +1 (551) 344-7943
+  Alex Morgan
+  alex.morgan@example.com
+  +1 (555) 010-1234
 
 Contact B
-  K. Indugula
-  KIRAN.INDUGULA@example.com
-  5513447943
+  A. Morgan
+  ALEX.MORGAN@example.com
+  5550101234
 ```
 
 A useful system has to answer two different questions:
